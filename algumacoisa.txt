@@ -28,7 +28,22 @@ git branch
 git checkout -b newbranch-koll
 
 
+-->move to branch
+git checkout [branch name]
+
 
 
 ->get lastest changes from remote repo (github)
 git pull
+
+
+-> list directories
+ls
+
+
+-> go to directory
+cd [directory name]
+
+
+-> go to previous directory
+cd ..
