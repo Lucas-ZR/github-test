@@ -1,1 +1,34 @@
-alguma coisa commit
+-> add stuff to tracking
+git add [filename]
+git add . --tudo
+
+-> save changes
+git commit -m "mensagem" (localmente)
+
+->push to github
+git push --send latest changes to remote repo
+
+
+
+-> check status
+git status
+
+
+-> check history
+git hist
+
+
+
+----->branching
+
+->check branches
+git branch
+
+->create new branch
+git checkout -b newbranch-koll
+
+
+
+
+->get lastest changes from remote repo (github)
+git pull
